@@ -1,0 +1,10 @@
+{
+  "name": "FishingRodClippingFix",
+  "version_number": "0.1.1",
+  "website_url": "https://github.com/natebouchat/FishingRodClippingFix",
+  "description": "Rotate fishing rods to help prevent some of the clipping issues on dogs. Fully customizable",
+  "dependencies": [
+    "BlueberryWolfi-BlueberryWolfiAPIs-1.0.2",
+    "PuppyGirl-TackleBox-0.5.2"
+  ]
+}

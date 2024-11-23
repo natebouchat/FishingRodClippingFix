@@ -1,0 +1,15 @@
+{
+  "Id": "Hyenate.FishingRodClippingFix",
+  "PackPath": "FishingRodClippingFix.pck",
+  "Dependencies": [
+    "BlueberryWolfi.APIs",
+    "TackleBox"
+  ],
+  "Metadata": {
+    "Name": "Fishing Rod Clipping Fix",
+    "Author": "Hyenate",
+    "Version": "0.1.0",
+    "Description": "Rotate fishing rods to help prevent some of the clipping issues on dogs. Fully customizable",
+    "Homepage": "https://github.com/natebouchat/FishingRodClippingFix"
+  }
+}
